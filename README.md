@@ -3,3 +3,5 @@
 
 # Attendance
 new andrew ID!
+testandrew1
+testandrew2
